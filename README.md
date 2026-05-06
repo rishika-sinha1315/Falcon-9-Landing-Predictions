@@ -32,7 +32,7 @@
 
 ## Project Pipeline
 
-''' Raw Data → SQL & EDA Analysis → Feature Engineering → Visualization → ML Modeling → Evaluation'''A
+  Raw Data → SQL & EDA Analysis → Feature Engineering → Visualization → ML Modeling → Evaluation
 
 ## Technologies Used
 - Python 
